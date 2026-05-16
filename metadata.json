@@ -1,0 +1,10 @@
+{
+  "name": "1",
+  "description": "Elite AI-powered social media subtitle engineer for generating phonetically accurate, semantically chunked captions for Reels, TikTok, and Shorts.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
